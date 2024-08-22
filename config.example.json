@@ -1,0 +1,12 @@
+{
+  "environments": {
+    "prod": {
+      "name": "prod",
+      "region": ""
+    },
+    "dev": {
+      "name": "dev",
+      "region": ""
+    }
+  }
+}

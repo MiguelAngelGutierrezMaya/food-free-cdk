@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/food-free-empty.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/food-free.ts",
   "watch": {
     "include": [
       "**"
